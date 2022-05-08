@@ -5,7 +5,7 @@
 :heavy_check_mark: Este projeto foi voltado para a introdução ao aprendizado de TypeScript.
 
 <p align="center">
-    <img src="\assets\img\BemKqR9RDK4V2.gif">
+    <img src="/assets/img/BemKqR9RDK4V2.gif">
 </p>
 
 ## Link url
