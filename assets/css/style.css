@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+/* estilização do corpo do sistema*/
+main {
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    align-items: center;
+    height: 100vh;
+    background-image: url("/assets/img/background_estacionamento.jpg");
+    background-size: 80% 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+/* Estilização  do corpo da aréa de cadastro*/
+
+section .campo {
+    height: 25px;
+    border-radius: 8px;
+    width: 300px;
+    text-indent: 15px;
+}
+
+#cadastrar {
+    height: 25px;
+    padding: 0 20px;
+    border-radius: 5px;
+    background-color: rgb(64, 130, 184);
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+/*Estilização da tabela*/
+table {
+    border: 2px solid gray;
+    width: 800px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 2px;
+    background-color: rgba(180, 179, 179, 0.904);
+}
+
+table thead tr  {
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+table thead th {
+    padding: 10px;
+}
+
+table tbody tr{
+    border: 2px solid rgb(5, 4, 4);
+    margin-top: 50px;
+}
+
+table tbody td {
+    padding: 5px 0;
+    border: 2px solid black;
+}
+
+.delete {
+    width: 20px;
+    background-color: red;
+    font-weight: 800;
+    border-radius: 8px;
+}
