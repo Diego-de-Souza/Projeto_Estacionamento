@@ -6,7 +6,8 @@
 
 
 ## Descrição
-:heavy_check_mark: Projeto de cadastramento de veiculos no sistema na web, sem banco de dados, somente a implemetação de html, css e typescript.  <br\>
+:heavy_check_mark: Projeto de cadastramento de veiculos no sistema na web, sem banco de dados, somente a implemetação de html, css e typescript.   
+   
 :heavy_check_mark: Este projeto foi voltado para a introdução ao aprendizado de TypeScript.
 
 <p align="center">
